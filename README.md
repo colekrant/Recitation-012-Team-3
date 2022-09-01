@@ -2,12 +2,19 @@
 Software Development Lab 2
 
 Cole Krant
+
 Joseph Pleasant
+
 Kevin McMahon
+
 Erik Hirschmann
 
-Account Names
+
+Account Names:
 colekrant
+
 JosephPCS
+
 kevinjmcmahon
+
 erikhirschmann
