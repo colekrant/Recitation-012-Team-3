@@ -4,13 +4,13 @@ Software Development Lab 2
 -----
 Names:
 
-Cole Krant 2x CONFLICT
+Cole Krant
 
 Joseph Pleasant
 
 Kevin McMahon
 
-aaaaaaaaaaaaaaaaaaaaaaaErik Hirschmann
+Erik Hirschmann
 
 
 -----
