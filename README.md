@@ -3,7 +3,6 @@ Software Development Lab 2
 
 -----
 Name: Erik Hirschmann
-test text
 
 
 -----
