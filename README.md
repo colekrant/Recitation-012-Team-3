@@ -2,24 +2,8 @@
 Software Development Lab 2
 
 -----
-Names:
-
-Cole Krant 2x
-
-Joseph Pleasant
-
-Kevin McMahon
-
-Erik Hirschmann
+Name: Erik Hirschmann
 
 
 -----
-Account Names:
-
-colekrant
-
-JosephPCS
-
-kevinjmcmahon
-
-erikhirschmann
+Account Name: erikhirschmann
