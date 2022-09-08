@@ -2,16 +2,15 @@
 Software Development Lab 2
 
 -----
-Lab Group Names:
+Lab Group Names: Joseph_branch
 
-Cole Krant 2x
+Cole Krant
 
 Joseph Pleasant
 
 Kevin McMahon
 
 Erik Hirschmann
-
 
 -----
 Account Names:
@@ -23,3 +22,4 @@ JosephPCS
 kevinjmcmahon
 
 erikhirschmann
+
