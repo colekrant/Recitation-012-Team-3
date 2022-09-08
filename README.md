@@ -4,13 +4,12 @@ Software Development Lab 2
 -----
 
 
-Names: 
-
 Cole Krant
 
 Joseph Pleasant
 
 Erik Hirschmann
+
 
 -----
 Account Names:
