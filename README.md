@@ -2,7 +2,7 @@
 Software Development Lab 2
 
 -----
-Names:
+Names: Erik Hirschmann
 
 Cole Krant
 
