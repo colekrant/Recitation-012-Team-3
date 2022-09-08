@@ -2,11 +2,9 @@
 Software Development Lab 2
 
 -----
-Lab Group Names: Joseph_branch
-=======
-Names:
 
-Kevin McMahon
+
+Names: 
 
 Cole Krant
 
