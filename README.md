@@ -2,7 +2,7 @@
 Software Development Lab 2
 
 -----
-Names:
+Lab Group Names:
 
 Cole Krant
 
