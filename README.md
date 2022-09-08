@@ -3,8 +3,10 @@ Software Development Lab 2
 
 -----
 Names:Kevin McMahon x2
+CONFLICT
 
 Cole Krant
+CONFLICT
 
 Joseph Pleasant
 
