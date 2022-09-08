@@ -2,13 +2,14 @@
 Software Development Lab 2
 
 -----
-Names: Erik Hirschmann
+Erik Hirschmann
 
 Cole Krant
+CONFLICT
 
 Joseph Pleasant
 
-Kevin McMahon
+bbbbbbbbb
 
 Erik Hirschmann
 =======
