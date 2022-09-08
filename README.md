@@ -2,7 +2,7 @@
 Software Development Lab 2
 
 -----
-Names:Kevin McMahon
+Names:Kevin McMahon x2
 
 Cole Krant
 
