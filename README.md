@@ -3,17 +3,14 @@ Software Development Lab 2
 
 -----
 
+
 Names: 
 
 Cole Krant
 
 Joseph Pleasant
 
-Kevin McMahon
-
 Erik Hirschmann
-
-
 
 -----
 Account Names:
