@@ -2,17 +2,15 @@
 Software Development Lab 2
 
 -----
-<<<<<<< HEAD
-Names: 
-=======
-Names:
+Names:Kevin McMahon x2
+CONFLICT
 
->>>>>>> 546101871ff6d2d95d1ffa3d9c0cd3428d856be9
 Cole Krant
+CONFLICT
 
 Joseph Pleasant
 
-Kevin McMahon
+bbbbbbbbb
 
 Erik Hirschmann
 CONFLICT
