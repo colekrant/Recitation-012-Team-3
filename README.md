@@ -4,13 +4,14 @@ Software Development Lab 2
 -----
 Names:Kevin McMahon
 
-Cole Krant 2x
+Cole Krant
 
 Joseph Pleasant
 
 Kevin McMahon x2
 
 Erik Hirschmann
+CONFLICT
 
 
 -----
@@ -23,3 +24,4 @@ JosephPCS
 kevinjmcmahon
 
 erikhirschmann
+
