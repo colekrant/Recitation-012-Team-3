@@ -4,7 +4,7 @@ Software Development Lab 2
 -----
 Lab Group Names:
 
-Cole Krant
+Cole Krant 2x
 
 Joseph Pleasant
 
