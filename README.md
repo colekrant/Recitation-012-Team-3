@@ -2,19 +2,17 @@
 Software Development Lab 2
 
 -----
-Names:Kevin McMahon x2
-CONFLICT
+Lab Group Names: Joseph_branch
+=======
+Names:
+
+Kevin McMahon
 
 Cole Krant
-CONFLICT
 
 Joseph Pleasant
 
-bbbbbbbbb
-
 Erik Hirschmann
-CONFLICT
-
 
 -----
 Account Names:
