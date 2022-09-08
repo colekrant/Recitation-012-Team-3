@@ -2,18 +2,13 @@
 Software Development Lab 2
 
 -----
-Erik Hirschmann
+
 
 Cole Krant
-CONFLICT
 
 Joseph Pleasant
 
-bbbbbbbbb
-
 Erik Hirschmann
-=======
-CONFLICT
 
 
 -----
