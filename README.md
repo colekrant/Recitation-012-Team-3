@@ -2,9 +2,8 @@
 Software Development Lab 2
 
 -----
-Names: joseph
-
-Cole Krant 2x
+Names: 
+Cole Krant
 
 Joseph Pleasant
 
