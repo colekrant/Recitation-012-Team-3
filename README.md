@@ -2,15 +2,17 @@
 Software Development Lab 2
 
 -----
-Names:
 
-Cole Krant 3x
+Names: 
+
+Cole Krant
 
 Joseph Pleasant
 
 Kevin McMahon
 
-aaaaaaaaaaaaaaaaaaaaaaaErik Hirschmann
+Erik Hirschmann
+
 
 
 -----
